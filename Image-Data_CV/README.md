@@ -1,4 +1,4 @@
-# Computer Visiob
+# Computer Vision
 This directory focuses on computer vision (CV) models and tools, aiming to provide a range of resources to help users process and analyze image data. The goal is to offer ready-made solutions and frameworks to support tasks from basic image processing to complex visual recognition.
 
 ## Models and Frameworks
